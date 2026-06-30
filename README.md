@@ -4,7 +4,7 @@ How this works? So normally if you want to use yt-dlp you need to type some stuf
 Thats why i came with this gui that will do it for u. Just enter what u want to download, then set some parameters and enjoy!
 Of course you need to get real yt-dlp first.
 It will work anywhere where yt-dlp works.
-
+You will need some python interpreter for this to work
 make sure you have right to things that u want to download!
 Be careful which site you download files from.
 YOU DOWNLOADIND ANYTHING AT YOUR OWN RISK
